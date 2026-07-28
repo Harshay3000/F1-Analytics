@@ -132,9 +132,8 @@ Data is available approximately 1 hour after each race session ends.
 
 ## 👤 Author
 
-Built by **[Your Name]**
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+Built by **Harshay Chouhan**
+- GitHub: Harshay3000(https://github.com/Harshay3000)
 
 ---
 
