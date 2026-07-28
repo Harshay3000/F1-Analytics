@@ -1,0 +1,29 @@
+# Virtual environment — never upload this
+venv/
+venvftwo/
+env/
+.env
+
+# FastF1 data cache — can be gigabytes, regenerates automatically
+cache/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints/
+
+# Streamlit secrets (API keys — never upload)
+.streamlit/secrets.toml
