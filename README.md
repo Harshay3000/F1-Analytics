@@ -218,8 +218,7 @@ GROQ_API_KEY = "gsk_your-key-here"
 ## 👤 Author
 
 Built by **[Your Name]**
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@Harshay3000](https://github.com/Harshay3000)
 
 ---
 
