@@ -217,7 +217,7 @@ GROQ_API_KEY = "gsk_your-key-here"
 
 ## 👤 Author
 
-Built by **[Your Name]**
+Built by **Harshay Chouhan**
 - GitHub: [@Harshay3000](https://github.com/Harshay3000)
 
 ---
